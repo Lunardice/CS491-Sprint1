@@ -5,9 +5,13 @@
 ## Team members
 
 Dennis Fung
+
 Jerry Huang
+
 Amir Abdullozoda
+
 Ivan Trujillo-Armijo
+
 
 TOADD picture of the team
 
