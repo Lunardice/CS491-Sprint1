@@ -31,6 +31,7 @@ A Campus-only second-hand marketplace
 
 ## Architecture & Design
 [Architecture & Design]()
+[Design Figma](https://www.figma.com/design/5XFSUXQwSKHq3wnEbXdl0N/Untitled?t=Emnyqv6e3iYOTNSN-1)
 
 ## Process
 
