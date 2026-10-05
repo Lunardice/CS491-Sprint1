@@ -34,9 +34,11 @@ A Campus-only second-hand marketplace
 
 
 [Product Backlog](https://docs.google.com/spreadsheets/d/1T9ogkZ1NKx7lBxWzRkc2HEQDc-TxDZfaZLw8lTeUUAU/edit?usp=sharing)
+[Team 8 - Product Backlog](https://docs.google.com/spreadsheets/d/1w80TTUGN7nwV-oBVhxL9LLZCVEgD5o2ohqK137NrpNE/edit?gid=960492148#gid=960492148)
 
 ## Architecture & Design
 [Architecture & Design]()
+[Design Figma](https://www.figma.com/design/5XFSUXQwSKHq3wnEbXdl0N/Untitled?t=Emnyqv6e3iYOTNSN-1)
 
 ## Process
 
