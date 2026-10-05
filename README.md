@@ -28,6 +28,7 @@ A Campus-only second-hand marketplace
 [Requirements Discovery](https://docs.google.com/document/d/1dOXgGm7NkfFyu0tFLkRq-aQd3wVGMQ9f/edit?usp=sharing&ouid=107304274763976758367&rtpof=true&sd=true)
 [Product Backlog Validation](https://docs.google.com/document/d/18Nr3FZNclgZZUt89IOYIEZilmoRIJL9L/edit?usp=sharing&ouid=107304274763976758367&rtpof=true&sd=true)
 [Product Backlog](https://docs.google.com/spreadsheets/d/1T9ogkZ1NKx7lBxWzRkc2HEQDc-TxDZfaZLw8lTeUUAU/edit?usp=sharing)
+[Team 8 - Product Backlog](https://docs.google.com/spreadsheets/d/1w80TTUGN7nwV-oBVhxL9LLZCVEgD5o2ohqK137NrpNE/edit?gid=960492148#gid=960492148)
 
 ## Architecture & Design
 [Architecture & Design]()
