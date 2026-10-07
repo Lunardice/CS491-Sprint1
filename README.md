@@ -1,6 +1,6 @@
 # TEAM 8
 
-## App name
+## App name: CampusCycle
 
 Campus Cycle
 
