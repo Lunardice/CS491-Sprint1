@@ -2,8 +2,6 @@
 
 ## App name: CampusCycle
 
-Campus Cycle
-
 ## Team members
 
 Dennis Fung
