@@ -18,7 +18,7 @@ Ivan Trujillo-Armijo
 
 
 ## App description
-A Campus-only second-hand marketplace
+A campus-only second-hand marketplace with Freecycle mode and impact tracking — supporting SDG 12: Responsible Consumption and Production.
 
 ## Idea Proposal
 [Idea Proposal](https://docs.google.com/document/d/1jqzHU9Lsjm9iMQ0DHw1OyCnxMYDaPBT3/edit?usp=sharing&ouid=100011191681903624157&rtpof=true&sd=true)
