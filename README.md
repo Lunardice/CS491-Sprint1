@@ -33,6 +33,12 @@ A campus-only second-hand marketplace with Freecycle mode and impact tracking â€
 
 [Product Backlog](https://docs.google.com/spreadsheets/d/1T9ogkZ1NKx7lBxWzRkc2HEQDc-TxDZfaZLw8lTeUUAU/edit?usp=sharing)
 
+## Kiro Product Backlog Comparison
+
+[Kiro Product Backlog](KIRO_PRODUCT_BACKLOG.md)
+
+[Kiro Comparison Document](https://docs.google.com/document/d/1nYtH5rcJAJ9BBGNiRKr48XlTCrPHQY4OFml07pRfZFk/edit?pli=1&tab=t.0)
+
 
 ## Architecture & Design
 [Architecture & Design]()
