@@ -13,7 +13,9 @@ Amir Abdullozoda
 Ivan Trujillo-Armijo
 
 
-![Group Photo](Group-photo.jpeg)
+
+<img src="https://github.com/user-attachments/assets/6f6f5d7e-2e40-416a-ad3a-167634dceec0" width="504">
+
 
 ## App description
 A Campus-only second-hand marketplace
@@ -27,7 +29,7 @@ A Campus-only second-hand marketplace
 ## Product Backlog
 [Requirements Discovery](https://docs.google.com/document/d/1dOXgGm7NkfFyu0tFLkRq-aQd3wVGMQ9f/edit?usp=sharing&ouid=107304274763976758367&rtpof=true&sd=true)
 
-[Backlog Validation](https://drive.google.com/file/d/1j-BN4J23dKzQ67lnYvfzY9wk2DALTnkO/view?usp=drive_link)
+[Backlog Validation](https://docs.google.com/document/d/1iVrurTcy0Z99KPpDKnnj2Lp5TQS9WafpBEuYmrHZd9U/edit?tab=t.0)
 
 [Product Backlog](https://docs.google.com/spreadsheets/d/1T9ogkZ1NKx7lBxWzRkc2HEQDc-TxDZfaZLw8lTeUUAU/edit?usp=sharing)
 
