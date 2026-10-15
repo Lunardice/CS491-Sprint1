@@ -27,6 +27,7 @@ A Campus-only second-hand marketplace
 ## Product Backlog
 [Requirements Discovery](https://docs.google.com/document/d/1dOXgGm7NkfFyu0tFLkRq-aQd3wVGMQ9f/edit?usp=sharing&ouid=107304274763976758367&rtpof=true&sd=true)
 
+[Backlog Validation]([https://docs.google.com/spreadsheets/d/1T9ogkZ1NKx7lBxWzRkc2HEQDc-TxDZfaZLw8lTeUUAU/edit?usp=sharing](https://paceuniversity-my.sharepoint.com/:w:/g/personal/kp81493n_pace_edu/IQChSojLjQcARatrXsuARTAhAWA7wv9hkHhcZ889LNzSfUE?e=EqbLTZ))
 
 [Product Backlog](https://docs.google.com/spreadsheets/d/1T9ogkZ1NKx7lBxWzRkc2HEQDc-TxDZfaZLw8lTeUUAU/edit?usp=sharing)
 
