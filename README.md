@@ -49,7 +49,7 @@ A campus-only second-hand marketplace with Freecycle mode and impact tracking â€
 ## Process
 
 ### Sprint 1
-
+Our goal for this sprint is to implement the account, listings, browsing and filtering systems along some misc. items. The US we will be implementing this sprint include US 1, 2, 3, 5, 6, 9, 10, 11, 12, 13, 14, 18, 19, 29, 36, 42, 46, 49, and 50 for a total of 19 US being implemented for a velocity of 79.
 * [Sprint planning](https://docs.google.com/spreadsheets/d/1EBREvswWM3VUQMknUTe7RhHdkjQ9YZJmjo8ZetUlucs/edit?usp=sharing)
 * [Scrums]()
 * [Sprint demo video]()
