@@ -50,7 +50,7 @@ A campus-only second-hand marketplace with Freecycle mode and impact tracking â€
 
 ### Sprint 1
 
-* [Sprint planning]()
+* [Sprint planning](https://docs.google.com/document/d/1rHVMPdebUAqi0y0rpmGOYLFLgMcSHYi0aarebdyppjo/edit?usp=sharing)
 * [Scrums]()
 * [Sprint demo video]()
 * [Sprint retrospective]()
